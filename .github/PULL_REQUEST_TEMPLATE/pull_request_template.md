@@ -1,9 +1,16 @@
 #### Summary and Scope
-<!--- Delete un-needed bullets -->
+<!--- Pick one below and delete the rest -->
 
 - Fixes #
 - Requires #
 - Relates to #
+
+##### Issue Type
+<!--- Delete un-needed bullets -->
+
+- Bugfix Pull Request
+- Docs Pull Request
+- RFE Pull Request
 
 words; describe what this change is and what it is for.
 
@@ -12,13 +19,6 @@ words; describe what this change is and what it is for.
 - [ ] I have included documentation in my PR (or it is not required)
 - [ ] I tested this on internal system (x) (if yes, please include results or a description of the test)
  
-#### Issue Type
-<!--- Pick one below and delete the rest -->
-
-- Bugfix Pull Request
-- Docs Pull Request
-- RFE Pull Request
-
 
 #### Idempotency
  
